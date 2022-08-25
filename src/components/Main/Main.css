@@ -1,0 +1,7 @@
+.main-container{
+    background-image: url(../../Images/Main.jpg);
+    background-repeat: repeat;
+    object-fit: contain;
+    width: 100%;
+    height: 450px;
+}

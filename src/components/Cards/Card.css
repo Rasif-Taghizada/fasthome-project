@@ -1,0 +1,52 @@
+.card-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.card-container>h1 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.info-icon {
+    display: flex;
+    gap: 10px;
+}
+
+.sale-division {
+    display: flex;
+    gap: 20px;
+
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background: #FFFFFF;
+    padding: 10px;
+}
+
+.card>img {
+    margin-bottom: 10px;
+}
+
+.info>h1 {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.info>h3 {
+    font-weight: 400;
+}
+
+.info>span {
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.5);
+}
